@@ -4,6 +4,8 @@
 
 the project generate a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
 
+PS : it's obvious that the chance to find an none empty account is almost impossible. The project purpose was for generating safetly many accounts that can be used for trading.
+
 ## Parameters
 ### P1 : Number of pairs to generate :
 if equal under or equal zero it will generates infinite pairs, until the application is stopped
